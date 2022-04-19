@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Enrique Rodriguez</h1>
 <h3 align="center">A Junior Full Stack Developer form Spain</h3>
 
-- 🌱 I’m currently working with React, Javascript and Web Mapping
+- 🌱 I’m currently working with PERN Web Stack (PostgreSQL, Express, React, Nodejs) and Web Mapping (Leaflet, OpenLayers)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/enriquetecfan11)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kikerodrivela)
 
 - 💬 Ask me about **Ask me about all technologies**
 
 - 📫 How to reach me **kikerodrivela@gmail.com**
-
-- 📄 All my links [https://linktr.ee/enriquetecfan](https://linktr.ee/enriquetecfan)
 
 - ⚡ Fun fact **I love everything developed with Free software.**
 
